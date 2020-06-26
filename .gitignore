@@ -19,3 +19,13 @@ Version.h
 Version.cpp
 
 /.vs
+/MvcCoreApplication/CoreApplication.Mvc/obj/project.assets.json
+/MvcCoreApplication/CoreApplication.Mvc/obj/CoreApplication.Mvc.csproj.nuget.g.targets
+/MvcCoreApplication/CoreApplication.Mvc/obj/CoreApplication.Mvc.csproj.nuget.g.props
+/MvcCoreApplication/.vs/MvcCoreApplication/v15/Server/sqlite3/storage.ide-wal
+/MvcCoreApplication/.vs/MvcCoreApplication/v15/Server/sqlite3/storage.ide-shm
+/MvcCoreApplication/.vs/MvcCoreApplication/v15/Server/sqlite3/storage.ide
+/MvcCoreApplication/.vs/MvcCoreApplication/v15/Server/sqlite3/db.lock
+/MvcCoreApplication/.vs/MvcCoreApplication/DesignTimeBuild/.dtbcache
+/MvcCoreApplication/.vs/*
+/MvcCoreApplication/CoreApplication.Mvc/obj/*
