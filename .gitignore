@@ -38,3 +38,6 @@ Version.cpp
 /MvcCoreApplication/CoreApplication.Domain/obj
 /MvcCoreApplication/CoreApplication.Infra.Data/obj/Debug/netcoreapp3.1
 /MvcCoreApplication/CoreApplication.Infra.Data/obj
+/MvcCoreApplication/CoreApplication.Application/bin/Debug/netcoreapp3.1
+/MvcCoreApplication/CoreApplication.Infra.IoC/bin/Debug/netcoreapp3.1
+/MvcCoreApplication/CoreApplication.Infra.IoC/obj

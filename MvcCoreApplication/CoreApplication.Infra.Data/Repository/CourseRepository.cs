@@ -18,5 +18,6 @@ namespace CoreApplication.Infra.Data.Repository
         public IEnumerable<Course> GetCourses()
         {
             return _ctx.Courses;
+        }
     }
 }

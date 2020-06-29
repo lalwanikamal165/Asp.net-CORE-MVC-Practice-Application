@@ -7,7 +7,7 @@ using System.Text;
 
 namespace CoreApplication.Application.Services
 {
-    class CourseService : ICourseService
+   public class CourseService : ICourseService
     {
         private ICourseRepository _courseRepository;
 
