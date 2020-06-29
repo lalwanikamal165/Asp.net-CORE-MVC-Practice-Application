@@ -29,3 +29,12 @@ Version.cpp
 /MvcCoreApplication/.vs/MvcCoreApplication/DesignTimeBuild/.dtbcache
 /MvcCoreApplication/.vs/*
 /MvcCoreApplication/CoreApplication.Mvc/obj/*
+/MvcCoreApplication/CoreApplication.Domain/bin/Debug/netcoreapp3.1
+/MvcCoreApplication/CoreApplication.Infra.Data/bin/Debug/netcoreapp3.1
+/MvcCoreApplication/CoreApplication.Mvc/bin/Debug/netcoreapp3.1
+/MvcCoreApplication/CoreApplication.Application/obj/Debug/netcoreapp3.1
+/MvcCoreApplication/CoreApplication.Application/obj
+/MvcCoreApplication/CoreApplication.Domain/obj/Debug/netcoreapp3.1
+/MvcCoreApplication/CoreApplication.Domain/obj
+/MvcCoreApplication/CoreApplication.Infra.Data/obj/Debug/netcoreapp3.1
+/MvcCoreApplication/CoreApplication.Infra.Data/obj
