@@ -5,6 +5,8 @@ namespace CoreApplication.Application.Interface
 {
     public interface ICourseService
     {
-        CourseViewModel GetCourses(); 
+        CourseViewModel GetCourses();
+
+        void Create(CourseViewModel courseViewModel);
     }
 }
