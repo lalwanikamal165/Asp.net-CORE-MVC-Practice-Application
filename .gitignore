@@ -46,3 +46,6 @@ Version.cpp
 /MvcCoreApplication/CoreApplication.Infra.Bus/obj
 /MvcCoreApplication/CoreApplication.Domain.Core/bin/Debug/netcoreapp3.1
 /MvcCoreApplication/CoreApplication.Domain.Core/obj
+/MvcCoreApplication/CoreApplication.Api/obj
+/MvcCoreApplication/CoreApplication.Api/bin/Debug/netcoreapp3.1
+/MvcCoreApplication/CoreApplication.Api/Properties
