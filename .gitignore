@@ -41,3 +41,8 @@ Version.cpp
 /MvcCoreApplication/CoreApplication.Application/bin/Debug/netcoreapp3.1
 /MvcCoreApplication/CoreApplication.Infra.IoC/bin/Debug/netcoreapp3.1
 /MvcCoreApplication/CoreApplication.Infra.IoC/obj
+/MvcCoreApplication/CoreApplication.Infra.Bus/bin/Debug/netcoreapp3.1
+/MvcCoreApplication/CoreApplication.Infra.Bus/obj/Debug/netcoreapp3.1
+/MvcCoreApplication/CoreApplication.Infra.Bus/obj
+/MvcCoreApplication/CoreApplication.Domain.Core/bin/Debug/netcoreapp3.1
+/MvcCoreApplication/CoreApplication.Domain.Core/obj
